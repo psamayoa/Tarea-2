@@ -59,10 +59,10 @@ img{
 label{
     display: inline-block; 
      text-align: right;
-      width: 8%;
+      width: 130px;
     }
   input[type=text], select{
-      width: 15%; 
+      width: 200px; 
       font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Sans-Serif;
       padding: 5px;
       font-size: 12px;
@@ -71,7 +71,7 @@ label{
       margin: 5px;
 }
   select{
-      width: 15.7%; 
+      width: 200px; 
 }
 .btns{
     display: flex;
@@ -106,8 +106,8 @@ label{
     border-radius: 5px;
     text-decoration: none;
 }
-/*fieldset{
-    width: 80%%;
+fieldset{
+    width: 30%;
     margin: 2;
     padding: 2;
-}*/
+}
